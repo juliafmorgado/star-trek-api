@@ -48,7 +48,14 @@ const alien = {
         'notableExamples' : "Borg Queen, Seven of Nine, Locutus",
         'image': 'https://static.wikia.nocookie.net/aliens/images/7/76/Borg.jpg'
     },
-    'gorn': {},
+    'gorn': {
+        'speciesName' : 'Gorn',
+        'homeworld': 'unknown (Alpha Quadrant)',
+        'features':'scaly green skin, large, iridescent eyes, powerful build, sharp teeth',
+        'interestingFact': 'Extremely militaristic and driven to conquer, but also possess advanced scientific knowledge allowing for superior bio-weapons.' ,
+        'notableExamples' : "Gorn Captain",
+        'image': 'https://static.wikia.nocookie.net/aliens/images/9/9b/Gorn.jpg'
+    },
     'trill': {}
 }
 
