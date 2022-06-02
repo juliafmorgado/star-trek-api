@@ -11,6 +11,7 @@ const alien = {
         'speciesName' : 'Humans',
         'homeworld': 'Earth',
         'location': 'Alpha Quadrant',
+        'features':'Rounded ears, hair on head and face (sometimes)',
     },
     'vulcans': {},
     'klirgons': {},
