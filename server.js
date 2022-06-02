@@ -14,4 +14,9 @@ app.get('/', (req, res) => {
 
 app.get('/api/:alienName', (req, res) => {
     const aliensName = request.params.alienName.toLowerCase()
+    if(alien[aliensName]){
+        response.json(alien[aliensName])
+    }else{
+        response.json(alien[humans])
+    }
 })
