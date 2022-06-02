@@ -7,7 +7,9 @@ const PORT = 8000
 app.use(cors())
 
 const alien = {
-    'humans': {},
+    'humans': {
+        'speciesName' : 'Humans',
+    },
     'vulcans': {},
     'klirgons': {},
     'romulans': {},
