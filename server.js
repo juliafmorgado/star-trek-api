@@ -24,7 +24,7 @@ const alien = {
         'notableExamples' : "Spock, T'Pol, Sarek",
         'image': 'https://static.wikia.nocookie.net/aliens/images/7/75/Vulcans-FirstContact.jpg'
     },
-    'klirgons': {
+    'klingons': {
         'speciesName' : 'Klingons',
         'homeworld': "Qo'noS",
         'features':'Large stature, pronounced ridges on the forehead, stylized facial hair',
