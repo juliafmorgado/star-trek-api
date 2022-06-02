@@ -9,6 +9,7 @@ app.use(cors())
 const alien = {
     'humans': {
         'speciesName' : 'Humans',
+        'location': 'Alpha Quadrant',
     },
     'vulcans': {},
     'klirgons': {},
