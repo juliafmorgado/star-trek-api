@@ -18,6 +18,7 @@ const alien = {
     },
     'vulcans': {
         'speciesName' : 'Vulcans',
+        'homeworld': 'Vulcan',
     },
     'klirgons': {},
     'romulans': {},
