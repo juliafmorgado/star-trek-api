@@ -40,7 +40,14 @@ const alien = {
         'notableExamples' : "Pardek, Tal'aura, Narissa",
         'image': 'https://static.wikia.nocookie.net/aliens/images/1/1d/Zzzd7.jpg'
     },
-    'borg': {},
+    'borg': {
+        'speciesName' : '(The) Borg',
+        'homeworld': 'unknown (Delta Quadrant)',
+        'features':'pale skin, numerous interior and exterior biological modifications',
+        'interestingFact': 'No single genetic lingeage, species propagates by assimilating individuals via nanotechnology, led by a hive mind guided by a single "queen" individual. DO NOT APPROACH unless under specific diplomatic orders from Starfleet Command.' ,
+        'notableExamples' : "Borg Queen, Seven of Nine, Locutus",
+        'image': 'https://static.wikia.nocookie.net/aliens/images/7/76/Borg.jpg'
+    },
     'gorn': {},
     'trill': {}
 }
