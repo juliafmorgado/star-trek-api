@@ -16,7 +16,9 @@ const alien = {
         'notableExamples' : "James T. Kirk, Zephram Cochran, Abraham Lincoln",
         'image': 'https://static.wikia.nocookie.net/aliens/images/6/68/The_City_on_the_Edge_of_Forever.jpg'
     },
-    'vulcans': {},
+    'vulcans': {
+        'speciesName' : 'Vulcans',
+    },
     'klirgons': {},
     'romulans': {},
     'borg': {},
