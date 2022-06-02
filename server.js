@@ -56,7 +56,14 @@ const alien = {
         'notableExamples' : "Gorn Captain",
         'image': 'https://static.wikia.nocookie.net/aliens/images/9/9b/Gorn.jpg'
     },
-    'trill': {}
+    'trill': {
+        'speciesName' : 'Trill',
+        'homeworld': 'Trill',
+        'features':'Outward appearance similar to humans, aside from distinct dark pigment marks running symmetrically down both sides of the face and body',
+        'interestingFact': 'Some Trill are willin hosts to a long-lived invertibrate symbiote that merges with the host to create a distinct personality.' ,
+        'notableExamples' : "Jadzia Dax, Ezri Dax, Curzon Dax",
+        'image': 'https://static.wikia.nocookie.net/aliens/images/4/42/EzriDax.jpg'
+    }
 }
 
 app.get('/', (req, res) => {
