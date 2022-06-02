@@ -21,6 +21,7 @@ const alien = {
         'homeworld': 'Vulcan',
         'features':'Pointed ears, upward-curving eyebrows',
         'interestingFact': 'Practice an extreme form of emotional regulation that focuses on logic above all else, pioneered by a Vulcan named Surak' ,
+        'notableExamples' : "Spock, T'Pol, Sarek",
     },
     'klirgons': {},
     'romulans': {},
