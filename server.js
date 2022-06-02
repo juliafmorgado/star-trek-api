@@ -6,8 +6,12 @@ const PORT = 8000
 
 app.use(cors())
 
-const alient = {}
+const alien = {}
 
 app.get('/', (req, res) => {
     response.sendFile(__dirname + '/index.html')
+})
+
+app.get('/api/:alienName', (req, res) => {
+
 })
