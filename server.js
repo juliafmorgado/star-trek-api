@@ -19,6 +19,7 @@ const alien = {
     'vulcans': {
         'speciesName' : 'Vulcans',
         'homeworld': 'Vulcan',
+        'features':'Pointed ears, upward-curving eyebrows',
     },
     'klirgons': {},
     'romulans': {},
