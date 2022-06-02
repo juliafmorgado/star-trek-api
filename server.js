@@ -24,7 +24,14 @@ const alien = {
         'notableExamples' : "Spock, T'Pol, Sarek",
         'image': 'https://static.wikia.nocookie.net/aliens/images/7/75/Vulcans-FirstContact.jpg'
     },
-    'klirgons': {},
+    'klirgons': {
+        'speciesName' : 'Klingons',
+        'homeworld': "Qo'noS",
+        'features':'Large stature, pronounced ridges on the forehead, stylized facial hair',
+        'interestingFact': 'Highly skilled in weapons and battle. Their facial ridges were lost as the result of a virus in 2154, but were subsequently restored by 2269.' ,
+        'notableExamples' : "Worf, Kor, Kang",
+        'image': 'https://static.wikia.nocookie.net/aliens/images/7/74/Kruge.jpg'
+    },
     'romulans': {},
     'borg': {},
     'gorn': {},
