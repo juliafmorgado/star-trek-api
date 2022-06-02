@@ -66,11 +66,11 @@ const alien = {
     }
 }
 
-app.get('/', (req, res) => {
+app.get('/', (request, response) => {
     response.sendFile(__dirname + '/index.html')
 })
 
-app.get('/api/:alienName', (req, res) => {
+app.get('/api/:alienName', (request, response) => {
     const aliensName = request.params.alienName.toLowerCase()
     if(alien[aliensName]){
         response.json(alien[aliensName])
