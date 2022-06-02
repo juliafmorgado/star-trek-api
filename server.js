@@ -13,6 +13,7 @@ const alien = {
         'location': 'Alpha Quadrant',
         'features':'Rounded ears, hair on head and face (sometimes)',
         'interestingFact': 'Founded the United Federation of Planets after first contact with the Vulcans' ,
+        'notableExamples' : "James T. Kirk, Zephram Cochran, Abraham Lincoln",
     },
     'vulcans': {},
     'klirgons': {},
