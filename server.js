@@ -13,5 +13,5 @@ app.get('/', (req, res) => {
 })
 
 app.get('/api/:alienName', (req, res) => {
-
+    const aliensName = request.params.alienName.toLowerCase()
 })
