@@ -6,7 +6,15 @@ const PORT = 8000
 
 app.use(cors())
 
-const alien = {}
+const alien = {
+    'humans': {},
+    'vulcans': {},
+    'klirgons': {},
+    'romulans': {},
+    'borg': {},
+    'gorn': {},
+    'trill': {}
+}
 
 app.get('/', (req, res) => {
     response.sendFile(__dirname + '/index.html')
