@@ -22,6 +22,7 @@ const alien = {
         'features':'Pointed ears, upward-curving eyebrows',
         'interestingFact': 'Practice an extreme form of emotional regulation that focuses on logic above all else, pioneered by a Vulcan named Surak' ,
         'notableExamples' : "Spock, T'Pol, Sarek",
+        'image': 'https://static.wikia.nocookie.net/aliens/images/7/75/Vulcans-FirstContact.jpg'
     },
     'klirgons': {},
     'romulans': {},
