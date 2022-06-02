@@ -20,3 +20,7 @@ app.get('/api/:alienName', (req, res) => {
         response.json(alien[humans])
     }
 })
+
+app.listen(PORT, ()=>{
+    console.log(`The server is running on port ${PORT}`);
+})
