@@ -2,11 +2,9 @@
 
 <img src='https://github.com/juliafmorgado/star-trek-app/blob/main/startrek.gif' width='100%'>
 
-<h3 align='center'> Star Trek-themed API created using Node.js and Express and hosted on Heroku.</h3>
-
 <h2> Project Context</h2>
 
-<p> This custom built API created using Node.js and Express, and hosted on Heroku.</p>
+<p> This was a custom built API created using Node.js and Express, and hosted on Heroku.</p>
 <br>
  
 <h2>What was learned</h2>
