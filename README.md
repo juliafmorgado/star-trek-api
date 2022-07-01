@@ -23,7 +23,7 @@
 
 <h2>Optimizations</h2>
 
-Move objects to external database.
+Move objects to database.
 
 <br>
 
