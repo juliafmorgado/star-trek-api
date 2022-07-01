@@ -10,11 +10,12 @@
 <h2>What was learned</h2>
 
 <ul>
+ <li>Building backend API to serve JSON data</li>
  <li>Initializing Node.js and excluding node_modules with .gitignore file</li>
- <li>Connecting frontend to backend via an API</li>
-  <li>Pushing to Heroku</li>
+ <li>Control parameters for URL</li>
   <li>Working with JSON formatted data</li>
-  <li>Loading environment variables from an .env file</li>
+ <li>Pushing and hosting API on Heroku</li>
+
  
 </ul>
 
