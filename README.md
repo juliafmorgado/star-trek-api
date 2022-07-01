@@ -12,8 +12,8 @@
 <ul>
  <li>Building backend API to serve JSON data</li>
  <li>Initializing Node.js and excluding node_modules with .gitignore file</li>
- <li>Control parameters for URL</li>
-  <li>Working with JSON formatted data</li>
+ <li>Using URL API parameters</li>
+  <li>Working with JSON data</li>
  <li>Pushing and hosting API on Heroku</li>
 
  
@@ -23,7 +23,7 @@
 
 <h2>Optimizations</h2>
 
-Add checkboxes to remove item if checkbox is checked.
+Move objects to external database.
 
 <br>
 
